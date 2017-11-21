@@ -1,1 +1,8 @@
-priemer cambio en el branch feature_1
+primer commit en el feature_2
+
+segundo commit en el feature_2
+
+tercer commit en el feature_2
+
+cuarto commit en el feature_4
+
